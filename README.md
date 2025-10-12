@@ -4,6 +4,7 @@ The model is medical application for detection of brain tumor from MRI images. I
 This repository includes source code for tumor segmentation and its area calculation - mri_tumor_detection.m
 
 **Methodology:**
+
 1)Taking an MRI Image as input
 2)Thresholding the image using Basic Global algorithm & Otsu’s Method
 3)Processing image properties in detail using regionprops and Morphological Operation
