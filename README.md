@@ -1,4 +1,4 @@
-**Overview**
+#**Overview**#
 This MATLAB project detects and segments brain tumors from MRI images using image processing and a Support Vector Machine (SVM) classifier. It also calculates the tumor area automatically and provides a simple GUI for users to upload and analyze MRI scans easily.
 
 **Methodology**
